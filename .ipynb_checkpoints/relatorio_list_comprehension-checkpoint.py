@@ -1,0 +1,2 @@
+relatorio = [len(palavra.split()) for palavra in ["Nesta videoaula, enfocaremos diferentes conceitos muito comuns na área de Ciência de Dados. Em seguida, falaremos sobre a explosão de dados e veremos como eles estão mudando a forma como as decisões são tomadas, bem como os prós e os contras dessa abordagem."]]
+print(relatorio)
